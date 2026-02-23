@@ -1,0 +1,18 @@
+{
+  "nav": [
+    {
+      "text": "产品百科",
+      "link": "/产品百科/概览"
+    },
+    {
+      "text": "教程",
+      "link": "/教程"
+    },
+    {
+      "text": "前往米坛社区",
+      "link": "https://bandbbs.cn",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  ]
+}

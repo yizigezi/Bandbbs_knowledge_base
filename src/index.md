@@ -4,15 +4,14 @@ layout: home
 
 hero:
   name: "米坛知识库"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: ""
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 产品百科
+      link: /产品百科
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 教程
+      link: /教程
 
 features:
   - title: Feature A
