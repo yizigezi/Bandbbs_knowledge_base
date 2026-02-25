@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 import siteIndex from "../src/index.json";
-import { generateSidebar } from "vitepress-sidebar";
+import { generateMultiSidebar } from "./sidebar.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -29,10 +29,8 @@ export default defineConfig({
     logo: "/bandbbs_logo.png",
     nav: siteIndex.nav,
 
-    // 自动生成侧边栏 - 每次添加新文件时会自动更新
-    sidebar: generateSidebar({
-      // 侧边栏的根目录，默认为docs
-      documentRootPath: "/src",
+    // 自动生成多侧边栏 - 自动扫描 src 下的所有目录并为每个目录生成独立的侧边栏
+    sidebar: generateMultiSidebar("src", {
       // 使用h1的标题作为侧边栏的标题
       useTitleFromFileHeading: true,
       // 使用文件夹的index.md
