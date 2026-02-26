@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 产品百科
-      link: /产品百科
+      link: /ProductWiki
     - theme: alt
       text: 教程
-      link: /教程
+      link: /Guides
 
 features:
   - title: Feature A
