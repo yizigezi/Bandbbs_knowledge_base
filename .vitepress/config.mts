@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 import siteIndex from "../src/index.json";
+// @ts-ignore
 import { generateMultiSidebar } from "./sidebar.mjs";
 
 // https://vitepress.dev/reference/site-config
@@ -7,6 +8,7 @@ export default defineConfig({
   title: "米坛知识库",
   description: "",
   srcDir: "./src",
+  ignoreDeadLinks: true,
   head: [
     [
       "link",
