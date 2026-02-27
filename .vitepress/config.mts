@@ -8,7 +8,6 @@ export default defineConfig({
   title: "米坛知识库",
   description: "",
   srcDir: "./src",
-  ignoreDeadLinks: true,
   head: [
     [
       "link",
