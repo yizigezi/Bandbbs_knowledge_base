@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./chunks/framework.D9yIeScA.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ProductWiki/index.md","filePath":"ProductWiki/index.md"}'),a={name:"ProductWiki/index.md"};function i(o,n,c,d,s,p){return t(),r("div")}const f=e(a,[["render",i]]);export{m as __pageData,f as default};
