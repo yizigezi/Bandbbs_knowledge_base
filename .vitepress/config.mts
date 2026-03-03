@@ -29,6 +29,9 @@ export default defineConfig({
     siteTitle: "知识库",
     logo: "/bandbbs_logo.png",
     nav: siteIndex.nav,
+    outline: {
+      level: [2, 3],
+    },
 
     // 自动生成多侧边栏 - 自动扫描 src 下的所有目录并为每个目录生成独立的侧边栏
     sidebar: generateMultiSidebar("src", {
