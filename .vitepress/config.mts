@@ -5,6 +5,7 @@ import productWikiIndex from "../src/ProductWiki/index";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-CN',
   title: "米坛知识库",
   description: "",
   srcDir: "./src",
