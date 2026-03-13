@@ -36,6 +36,15 @@
 |---------|
 | AstroBox连接设备教程 |
 
+### AstroBox V1 相关
+| [V1入门安装篇](/Guides/AstroboxV1入门安装篇.md) |
+|---------|
+| [V1账号篇](/Guides/AstroboxV1账号篇.md) |
+| [V1连接篇](/Guides/AstroboxV1连接篇.md) |
+| [V1入门安装篇](/Guides/AstroboxV1入门安装篇.md) |
+| [V1下载资源安装篇](/Guides/AstroboxV1下载资源安装篇.md) |
+| [V1其他篇](/Guides/AstroboxV1其他篇.md) |
+
 ### 米坛社区相关
 | [米坛社区注册教程](/Guides/米坛社区注册教程.html) |
 |---------|
