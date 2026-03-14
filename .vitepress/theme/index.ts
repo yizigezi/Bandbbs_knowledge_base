@@ -6,6 +6,8 @@ import './style.css'
 import { 
   NolebaseGitChangelogPlugin 
 } from '@nolebase/vitepress-plugin-git-changelog/client'
+import ImageViewerP from '@miletorix/vitepress-image-viewer'
+import '@miletorix/vitepress-image-viewer/style.css'
 
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 
@@ -19,5 +21,8 @@ export default {
   enhanceApp({ app, router, siteData }) {
     // ...
     app.use(NolebaseGitChangelogPlugin)
+    ImageViewerP(app, {
+      transparentBg: true,
+    })
   }
 } satisfies Theme

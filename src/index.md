@@ -1,4 +1,4 @@
-# 快速开始
+﻿# 快速开始
 
 在开始折腾前，请你了解下面内容：
 
@@ -8,7 +8,7 @@
 4. 你非常清楚：你在干什么、你需要什么
 
 如果你不知道如何注册，请阅读：
-| [米坛社区注册教程](/Guides/米坛社区注册教程.html) |
+| [米坛社区注册教程](/Guides/bandbbs/米坛社区注册教程.html) |
 |---------|
 
 ## 工具下载
@@ -32,26 +32,27 @@
 :::
 
 ### 连接设备相关
-| [使用自定义工具获取Authkey](/Guides/使用自定义工具获取Authkey.html) |
+| [使用自定义工具获取Authkey](/Guides/watchface_custom_tool/使用自定义工具获取Authkey.html) |
 |---------|
 | AstroBox连接设备教程 |
 
 ### AstroBox V1 相关
-| [V1入门安装篇](/Guides/AstroboxV1入门安装篇.md) |
+| [V1入门安装篇](/Guides/astrobox/AstroboxV1入门安装篇.html) |
 |---------|
-| [V1账号篇](/Guides/AstroboxV1账号篇.md) |
-| [V1连接篇](/Guides/AstroboxV1连接篇.md) |
-| [V1入门安装篇](/Guides/AstroboxV1入门安装篇.md) |
-| [V1下载资源安装篇](/Guides/AstroboxV1下载资源安装篇.md) |
-| [V1其他篇](/Guides/AstroboxV1其他篇.md) |
+| [V1账号篇](/Guides/astrobox/AstroboxV1账号篇.html) |
+| [V1连接篇](/Guides/astrobox/AstroboxV1连接篇.html) |
+| [V1入门安装篇](/Guides/astrobox/AstroboxV1入门安装篇.html) |
+| [V1下载资源安装篇](/Guides/astrobox/AstroboxV1下载资源安装篇.html) |
+| [V1其他篇](/Guides/astrobox/AstroboxV1其他篇.html) |
 
 ### 米坛社区相关
-| [米坛社区注册教程](/Guides/米坛社区注册教程.html) |
+| [米坛社区注册教程](/Guides/bandbbs/米坛社区注册教程.html) |
 |---------|
-| [米坛社区app下载教程](/Guides/米坛社区app下载教程.html) |
+| [米坛社区app下载教程](/Guides/bandbbs/米坛社区app下载教程.html) |
 
 ### 自定义工具相关
-| [快速了解表盘自定义工具使用](/Guides/快速了解表盘自定义工具使用.html) |
+| [快速了解表盘自定义工具使用](/Guides/watchface_custom_tool/快速了解表盘自定义工具使用.html) |
 |---------|
-| [使用自定义工具安装快应用&表盘](/Guides/使用自定义工具安装快应用&表盘.html) |
+| [使用自定义工具安装快应用&表盘](/Guides/watchface_custom_tool/使用自定义工具安装快应用&表盘.html) |
+
 
